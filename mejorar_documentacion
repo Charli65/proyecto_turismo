@@ -1,4 +1,0 @@
-git switch -c mejorar-documentacion
-git add .
-git commit -m "Mejora la documentación"
-git push -u origin mejorar-documentacion
